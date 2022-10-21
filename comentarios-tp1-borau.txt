@@ -1,0 +1,8 @@
+Comentarios 
+
+Hola profe, me pidió Aimé que agregue una nota a la entrega aclarando estos datos: 
+
+- Estoy usando Visual Code, y no se por qué motivo al pasarlo al Dreamweaver los tab se visualizan como espacios. 
+- Mi pantalla tiene una resolucion de 1152x864.
+
+Saludos!
